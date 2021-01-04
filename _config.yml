@@ -127,15 +127,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/warrenmo"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/mowarren"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:wmowkm@gmail.com"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/mowarren"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/warrenmo"
       #    - label: "Twitter"
       #      icon: "fab fa-fw fa-twitter-square"
       #      # url:
